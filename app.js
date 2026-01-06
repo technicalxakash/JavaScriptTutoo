@@ -65,6 +65,65 @@
 
 //DataTypes Conversion
 
- const val=String(5+5)
-console.log(typeof val)
-console.log(val.length)
+//  const val=String(5+5)
+// console.log(typeof val)
+// console.log(val.length)
+
+
+//object literals
+
+
+// const name="akash"
+// const age=23
+// const address = "banglore"
+
+// function add(){
+//     return "hello";
+// };
+
+// html=`
+// <ul>
+// <li>Name:${name}</li>
+// <li>age:${age}</li>
+// <li>address:${address}</li>
+// <li>name:${add()}</li>
+
+// </ul>
+
+// `;
+
+// document.body.innerHTML=html;
+
+// for(let i=0;i<=10;i++){
+//     console.log(i)
+// }
+
+// const name=["manu","mani","kumar","jaya"]
+
+// for(let ii=0;ii<name.length;ii++){
+// console.log(name[ii])
+
+// }
+
+// for(n of name){
+//     console.log(n)
+// }
+
+//function
+
+// function greet(){
+
+//     console.log("hui")
+// }
+
+// greet();
+
+// function greett(firstname){
+
+//  return `Hello : ${firstname}`   
+// }
+
+// console.log(greett("akash"))
+
+//function Expressions
+
