@@ -141,4 +141,36 @@ val=document.domain;
 val=document.URL; 
 console.log(val)
 
+
+!DOCTYPE html>
+<html>
+<head>
+    <title>My First JS</title>
+</head>
+<body>
+
+<h1>Hello JavaScript</h1>
+
+<h2 id="text">hi how are you</h2>
+
+
+<button onclick="clickkk()"> cclick</button>
+<button onclick="change()">chnange</button>
+<script>
+
+function clickkk(){
+    alert("Hi how are you ");
+}
+
+function change(){
+    document.getElementById("text").innerHTML="successfullyWelcome";
+}
+
+
+</script>
+
+</body>
+</html>
+
+
  
